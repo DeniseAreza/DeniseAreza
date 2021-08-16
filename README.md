@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DeniseAreza
+- 👀 I’m interested in project management, C++ programming, OOP, and machine learning.
+- 🌱 I’m currently learning react js
+- 💞️ I’m looking to collaborate on freecodecamp.
